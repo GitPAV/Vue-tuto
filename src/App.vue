@@ -1,18 +1,14 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img src="https://media1.giphy.com/media/87xihBthJ1DkA/giphy.gif?cid=ecf05e47rksenkux69i5ulxu64yirylrpclswa785m1i59ef&rid=giphy.gif" alt="">
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+  },
 }
 </script>
 
